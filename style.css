@@ -36,6 +36,16 @@ body {
     gap: 15px;
 }
 
+.right a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+.right a:hover {
+    color: darkred;
+}
+
 .right.placeholder-box {
     background-color: grey;
     display: flex;
